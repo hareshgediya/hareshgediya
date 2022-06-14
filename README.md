@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there! 👋🏻
 
+My name is Haresh and I'm an iOS developer.
 <!--
 **hareshgediya/hareshgediya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
