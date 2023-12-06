@@ -5,7 +5,7 @@ I'm an mobile application developer with 5 years of experience. I'm building pro
 - 🔭 I’m currently working on
   - Client iOS | Flutter mobile app
   - SwiftUI
-- 🌱 I’m currently learning to TDD with SwiftUI.
+- 🌱 I’m currently learning TDD with SwiftUI.
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/hareshgediya/"><img align="left" src="https://img.icons8.com/color/344/linkedin.png" alt="Haresh Gediya | LinkedIn" height="30px"/></a>
